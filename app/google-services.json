@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330565107251",
+    "project_id": "login-e469d",
+    "storage_bucket": "login-e469d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330565107251:android:3c595cfc9f2a28e35e2d46",
+        "android_client_info": {
+          "package_name": "com.example.firebasekotlin_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMO4iIB4qc6snDLNPeGO0qi5FBoVLg3iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
